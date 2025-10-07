@@ -65,7 +65,7 @@ Open http://localhost:3000
 ![Home page](IMAGES/HOME.png)
 
 ### Create Account Page
-![Create Acconut page](IMAGES/CREATE ACCOUNT.png)
+![Create Acconut page](IMAGES/CREATE_ACCOUNT.png)
 
 ### Deposit Page
 ![Create Acconut page](IMAGES/DEPOSIT.png)
@@ -74,7 +74,7 @@ Open http://localhost:3000
 ![Create Acconut page](IMAGES/WITHDRAW.png)
 
 ### All Data Page
-![Create Acconut page](IMAGES/ALL DATA.png)
+![Create Acconut page](IMAGES/ALL_DATA.png)
 
 ## 📦 Deployment
 
